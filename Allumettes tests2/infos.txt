@@ -1,0 +1,32 @@
+Informations complémentaires pour un bon déroulement de la partie:
+
+___But du jeu___
+
+Vous retirez à chaque tour 1, 2 ou 3 allumettes sur une des lignes.
+Celui qui retire la dernière allumette perd la partie
+ 
+
+___Dans le menu___
+
+-<Escape> ferme le jeu
+-Utilisez les flèches <up> et <down> pour selectionner quoi faire, puis 
+<return> pour valider
+
+
+___SinglePlayer___
+
+-<Escape> ferme le jeu
+-<Tab> renvoie au menu
+-Vous jouer contre une intelligence artificielle
+-Choisir la ligne sur laquelle vous souhaitez jouer avec les flèches directionnelles(haut, bas)
+-Choisir le nombre d'allumettes à retirer sur la ligne sélectionnée avec les touches 1, 2 ou 3
+
+
+___MultiPlayer___
+
+-<Escape> ferme le jeu
+-<Tab> renvoie au menu
+-Vous jouer contre un autre joueur sur la même machine.
+Chacun votre tour:
+-Choisir la ligne sur laquelle vous souhaitez jouer avec les flèches directionnelles(<up> ou <down>)
+-Choisir le nombre d'allumettes à retirer sur la ligne sélectionnée avec les touches 1, 2 ou 3
